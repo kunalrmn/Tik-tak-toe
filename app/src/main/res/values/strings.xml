@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tick tak toe</string>
+    <string name="button">Play again</string>
+</resources>
